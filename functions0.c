@@ -1,3 +1,8 @@
+/*
+ * last edited 25/04/2023
+ * partners kelvin kamau , Abner Onchana
+ * collaborative print f task
+ */
 #include "main.h"
 /************************* PRINT CHAR *************************/
 /**
